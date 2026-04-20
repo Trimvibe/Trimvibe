@@ -5,7 +5,7 @@
 
 ## 🏆 Certifications
 
-![AWS Data Engineering Badge]([your-image-link-here](https://github.com/Trimvibe/Trimvibe/blob/main/aws-academy-graduate-data-engineering-training-badg.png?raw=true))
+![AWS Data Engineering Badge]((https://github.com/Trimvibe/Trimvibe/blob/main/aws-academy-graduate-data-engineering-training-badg.png?raw=true))
 
 
 
