@@ -6,7 +6,7 @@
 ## 🏆 Certifications
 
 ![AWS Data Engineering Badge](aws-academy-graduate-data-engineering-training-badg.png)
-
+![AWS Generative Ai Badge](aws-academy-graduate-generative-ai-foundations-trai.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
